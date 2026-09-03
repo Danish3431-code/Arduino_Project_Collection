@@ -12,6 +12,7 @@ A collection of simple and practical **Arduino-based embedded systems and electr
 * 🌡️ **Temperature Monitor** — Temperature sensing and monitoring.
 * 🚦 **Traffic Signal** — Traffic light simulation using LEDs.
 * 💡 **LED Blinking** — Basic Arduino LED control.
+* 🏠 **Smart Room Automation** — Multi-sensor room control with PIR, LDR & TMP36.
 
 ## Technologies
 
